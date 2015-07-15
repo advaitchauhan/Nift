@@ -123,11 +123,13 @@ a:focus {
 /* FORM CONFIGURATION */
 
 input {
-	font-size: 16px;
-	min-height: 40px;
+	font-size: 14px;
+	min-height: 30px;
+	text-align: center;
+	width: 45%;
 	border-radius: 25px;
 	line-height: 20px;
-	padding: 15px 30px 16px;
+	padding: 10px 10px 10px;
 	border: 1px solid #b9b9af;
 	margin-bottom: 10px;
 	background-color: #fff;
@@ -138,8 +140,6 @@ input {
 
 .subscribe-input {
 	float: left;
-	width: 65%;
-	text-align: left;
 	margin-right: 2px;
 }
 
